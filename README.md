@@ -27,6 +27,6 @@ Datset collected from kaggle (Image taken from Pexels: https://www.pexels.com/ph
 
 
 
-## Future Addons
+## Future Add-ons
 * Make a web app and integrate the model into it.
 * Make a smooth UI/UX and deploy it.
