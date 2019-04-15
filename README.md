@@ -16,7 +16,7 @@ pip install keras
 ```
 
 ## Dataset
-Dataset Name: Happy House Dataset(https://www.kaggle.com/iarunava/happy-house-dataset)
+Dataset Name: [Happy House Dataset](https://www.kaggle.com/iarunava/happy-house-dataset)
 Datset collected from kaggle (Image taken from Pexels: https://www.pexels.com/photo/cute-family-picture-160994/).
 
 
